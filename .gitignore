@@ -1,0 +1,11 @@
+bin/
+lib/
+
+__pycache__/
+
+*.env
+
+env/
+
+*.sqlite3
+staticfiles_build/
